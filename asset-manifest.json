@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-navegacion/static/css/main.da0b4633.css",
+    "main.js": "/react-navegacion/static/js/main.bb75c144.js",
+    "index.html": "/react-navegacion/index.html",
+    "static/media/delete.svg": "/react-navegacion/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/edit.svg": "/react-navegacion/static/media/edit.900a8fd203adc364a82d0ebc6ad8dc94.svg",
+    "static/media/check.svg": "/react-navegacion/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.da0b4633.css.map": "/react-navegacion/static/css/main.da0b4633.css.map",
+    "main.bb75c144.js.map": "/react-navegacion/static/js/main.bb75c144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da0b4633.css",
+    "static/js/main.bb75c144.js"
+  ]
+}
